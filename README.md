@@ -6,7 +6,6 @@
 
 **A web-based project exploring how creators and supporters can connect around fundraising campaigns.**
 
-[![GitHub repository](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github)](https://github.com/ishaa05/Crowdfunding_Website)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend%20%26%20Backend-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Streamlit_Module-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Project%20Repository-informational)
